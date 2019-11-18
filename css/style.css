@@ -1,0 +1,29 @@
+body {
+    background: turquoise;
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+    border: 30px dashed salmon;
+    margin: 30px;
+    border-width: 10px;
+}
+
+div {
+    min-height: 10vh;
+}
+
+h1, h2 {
+    text-align: center;
+}
+h1 {
+    font-size: 5em;
+}
+img {
+        display: flex;
+        padding: 20px;
+        margin: 0 auto;
+        border-radius: 100%;
+    }
+.contrast:hover {
+    background: lightblue;
+    color: white;
+}
